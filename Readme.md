@@ -21,3 +21,6 @@ notebooks\moderate_complexity.csv
 ## Custom model:
 fine-tuned model trainig dataset - notebooks\train.csv
 fine-tuned model files - https://huggingface.co/jzilcov/prompt_complexity_classifier/tree/main
+
+# Report
+report.md
