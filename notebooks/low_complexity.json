@@ -1,0 +1,302 @@
+[
+    {
+        "question": "The health domain is about staying healthy. What do you do to keep healthy?"
+    },
+    {
+        "question": "Finance is about money and coins. Do people save their money in banks?"
+    },
+    {
+        "question": "Relationships are about how people connect with each other. Do you like making friends?"
+    },
+    {
+        "question": "Events are things that happen like parties or concerts. Do people go to many events?"
+    },
+    {
+        "question": "Leisure is about having fun and relaxing. What is your favorite thing to do for fun?"
+    },
+    {
+        "question": "Business is about selling things. How do people start a new business?"
+    },
+    {
+        "question": "Technology is about making tools and machines. How do computers help us every day?"
+    },
+    {
+        "question": "Healthcare helps sick people feel better. How do doctors find out what's wrong with someone?"
+    },
+    {
+        "question": "Education helps us learn new things. How do kids learn best in school?"
+    },
+    {
+        "question": "The environment is about the nature around us. Why is taking care of the environment important?"
+    },
+    {
+        "question": "Safety is about keeping things from getting hurt. Why is safety important?"
+    },
+    {
+        "question": "Culture is about the way people live and what they believe. What kind of cultures are there?"
+    },
+    {
+        "question": "Sports is about playing games and having fun. Do you like to watch or play sports?"
+    },
+    {
+        "question": "Entertainment is fun. What is your favorite movie?"
+    },
+    {
+        "question": "Politics is about how people make rules. Why do people have to follow rules?"
+    },
+    {
+        "question": "Travel is about going to different places. Why do people like to travel?"
+    },
+    {
+        "question": "The food domain is about eating and cooking. What is your favorite food?"
+    },
+    {
+        "question": "Fashion is about clothes and style. Do you like wearing cool outfits?"
+    },
+    {
+        "question": "Art domain is about making and looking at things like paintings and sculptures. Why do people like art?"
+    },
+    {
+        "question": "Science is how people learn about things. How do scientists find out new stuff?"
+    },
+    {
+        "question": "Health is about keeping our bodies strong. What do we do to stay healthy?"
+    },
+    {
+        "question": "Finance is about money and saving. How do banks help people?"
+    },
+    {
+        "question": "Relationships are about how people connect with each other. Do you want to know how friends become close?"
+    },
+    {
+        "question": "Events are happenings that people do or watch. What is your favorite kind of event to go to?"
+    },
+    {
+        "question": "Leisure is \u0441\u043fasos like fun and relax. Do you like playing games or watching movies?"
+    },
+    {
+        "question": "Business is about selling and buying things. What is the company's main thing they sell?"
+    },
+    {
+        "question": "Technology is about really cool gadgets and computers. How do computers work?"
+    },
+    {
+        "question": "Healthcare is about keeping people healthy. Do hospitals help sick people?"
+    },
+    {
+        "question": "Education is about learning things. How do people learn in school?"
+    },
+    {
+        "question": "Environment is about nature and earth. What kind of trees or animals are you interested in?"
+    },
+    {
+        "question": "Safety is about avoiding accidents. How do you stay safe when crossing the street?"
+    },
+    {
+        "question": "Culture is about how people do things and what they like. What are some things that different cultures do?"
+    },
+    {
+        "question": "Sports is fun! Do you like to watch or play sports?"
+    },
+    {
+        "question": "Entertainment is fun. What is your favorite thing to watch or do for fun?"
+    },
+    {
+        "question": "Politics is about how people decide rules. How do elections help choose leaders?"
+    },
+    {
+        "question": "Travel is when people go from one place to another. How do you decide where to go for your trip?"
+    },
+    {
+        "question": "Food is something people eat to stay healthy. What is your favorite food?"
+    },
+    {
+        "question": "Fashion is about how people dress. Do you like to wear colorful clothes?"
+    },
+    {
+        "question": "Art is about making beautiful or interesting things. Why do people draw or paint pictures?"
+    },
+    {
+        "question": "Science is about understanding how things work. How do scientists learn about the world?"
+    },
+    {
+        "question": "Health is about staying well and feeling good. How do people stay healthy?"
+    },
+    {
+        "question": "Finance is about managing money. How do people save their money?"
+    },
+    {
+        "question": "The relationships domain is about how people connect. Do you think friendships are important?"
+    },
+    {
+        "question": "Events are things that happen. What is an event you had recently?"
+    },
+    {
+        "question": "Leisure means fun time. What's your favorite way to relax?"
+    },
+    {
+        "question": "The business domain is about making and selling things. What do people usually buy and sell?"
+    },
+    {
+        "question": "Technology is about tools helps us do things.  \nHow do computers help us every day?"
+    },
+    {
+        "question": "Healthcare helps people stay healthy. How do doctors know what's wrong with someone?"
+    },
+    {
+        "question": "The education domain is about teaching and learning. Do you like going to school?"
+    },
+    {
+        "question": "The environment is about the world around us. Why is it important to take care of the environment?"
+    },
+    {
+        "question": "Safety is about keeping people safe. How do people stay safe?"
+    },
+    {
+        "question": "Culture is about the ways of life of a group of people. What kind of traditions do different cultures have?"
+    },
+    {
+        "question": "Sports is about playing games like soccer and basketball. Do you like playing or watching sports?"
+    },
+    {
+        "question": "Entertainment is stuff like movies and music. Do you like watching cartoons?"
+    },
+    {
+        "question": "Politics is about how people make decisions in a group. Why are voting and leaders so important?"
+    },
+    {
+        "question": "Travel is going from one place to another. How do people decide where to go?"
+    },
+    {
+        "question": "Food is something we eat. What is your favorite food?"
+    },
+    {
+        "question": "Fashion is about how people dress. Do you like colorful clothes?"
+    },
+    {
+        "question": "Art is pictures and paintings. How do people make art?"
+    },
+    {
+        "question": "Science is about learning how things work. How do scientists test their ideas?"
+    },
+    {
+        "question": "Health is about feeling good and being strong. What makes you feel happy and healthy?"
+    },
+    {
+        "question": "Finance is about money and how people use it. How do people save their money?"
+    },
+    {
+        "question": "Relationships are about how people connect with each other. Do friends or family count as relationships?"
+    },
+    {
+        "question": "Events are things that happen, like parties or festivals. Do you like stories about fun parties?"
+    },
+    {
+        "question": "Leisure is relaxing and having fun. What do you like to do for fun?"
+    },
+    {
+        "question": "Business is about selling things. How do people decide what to sell?"
+    },
+    {
+        "question": "Technology is about making new tools. Do all computers use technology?"
+    },
+    {
+        "question": "Healthcare is about helping people stay healthy. How do doctors fix boo-boos?"
+    },
+    {
+        "question": "Education is about learning new things. What is your favorite thing to learn about?"
+    },
+    {
+        "question": "The environment is everything around us. What is the environment made of?"
+    },
+    {
+        "question": "Safety is about keeping people from getting hurt.  \nWhy do we need safety in places like homes and schools?"
+    },
+    {
+        "question": "Culture is about the way people live and their traditions. Do people have different ways of celebrating their holidays?"
+    },
+    {
+        "question": "Sports is about playing games with teams. Do people like soccer or basketball more?"
+    },
+    {
+        "question": "Entertainment is fun. Do you like cartoons or movies more?"
+    },
+    {
+        "question": "Politics is about how leaders and governments make rules. Who are the main leaders in politics?"
+    },
+    {
+        "question": "Travel is going to new places. When you travel, do you like to visit the beach or the mountains?"
+    },
+    {
+        "question": "The food domain is about eating and cooking someday. Do you like your favorite food?"
+    },
+    {
+        "question": "Fashion is about what people wear. Do you like dressing up?"
+    },
+    {
+        "question": "Art is about making pretty or interesting pictures. How do people decide what's the best picture?"
+    },
+    {
+        "question": "Science is about learning how everything works. How do animals breathe?"
+    },
+    {
+        "question": "Health is about feeling good and not getting sick. Why is it important to eat healthy?"
+    },
+    {
+        "question": "Finance is about managing money. How do people save money?"
+    },
+    {
+        "question": "Relationships are about how people connect. Do you want to know how friends help each other?"
+    },
+    {
+        "question": "Events are things that happen. Do you like going to events like parties or concerts?"
+    },
+    {
+        "question": "Leisure is fun time for relaxing. Do you like playing games?"
+    },
+    {
+        "question": "Business is about selling things. Do people buy stuff at business places?"
+    },
+    {
+        "question": "Technology is about tools and gadgets. How do computers help us every day?"
+    },
+    {
+        "question": "Healthcare is about keeping people healthy. How do doctors help sick people feel better?"
+    },
+    {
+        "question": "Education is about learning new things. How do students learn best?"
+    },
+    {
+        "question": "The environment is everything around us. Why is keeping the earth clean important?"
+    },
+    {
+        "question": "The safety domain is about keeping people safe. Why is it important to wear a helmet?"
+    },
+    {
+        "question": "Culture is about how people live and what they believe. Do you want to know about a specific culture?"
+    },
+    {
+        "question": "Sports is about playing games like soccer and basketball. Do you like playing sports?"
+    },
+    {
+        "question": "Entertainment is fun. What is your favorite movie?"
+    },
+    {
+        "question": "Politics is about how governments make decisions. Why do people vote in elections?"
+    },
+    {
+        "question": "Travel is when people go to places away from their home. Where do most people like to travel?"
+    },
+    {
+        "question": "Food is something we eat. Do you like to eat apples?"
+    },
+    {
+        "question": "Fashion is about how people dress. What is a popular clothing item right now?"
+    },
+    {
+        "question": "Art is like drawing and making pictures. Do you like to draw?"
+    },
+    {
+        "question": "Science is about understanding how things work. Why do we do experiments in science?"
+    }
+]

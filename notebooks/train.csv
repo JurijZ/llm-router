@@ -1,0 +1,303 @@
+question,remembering_complexity,creation_complexity,evaluation_complexity,analysis_complexity,synthesis_complexity,applying_complexity,hypothesis_complexity
+The health domain is about staying healthy. What do you do to keep healthy?,2,2,3,2,1,2,1
+Finance is about money and coins. Do people save their money in banks?,2,1,2,2,1,2,2
+Relationships are about how people connect with each other. Do you like making friends?,2,1,2,2,1,2,1
+Events are things that happen like parties or concerts. Do people go to many events?,2,1,2,2,1,2,2
+Leisure is about having fun and relaxing. What is your favorite thing to do for fun?,2,1,2,2,1,1,1
+Business is about selling things. How do people start a new business?,3,4,3,4,3,4,3
+Technology is about making tools and machines. How do computers help us every day?,3,2,3,3,2,3,2
+Healthcare helps sick people feel better. How do doctors find out what's wrong with someone?,3,2,2,3,2,3,3
+Education helps us learn new things. How do kids learn best in school?,3,4,5,5,4,4,5
+The environment is about the nature around us. Why is taking care of the environment important?,2,2,3,3,2,2,2
+Safety is about keeping things from getting hurt. Why is safety important?,2,1,2,2,1,2,2
+Culture is about the way people live and what they believe. What kind of cultures are there?,3,2,2,3,2,2,2
+Sports is about playing games and having fun. Do you like to watch or play sports?,2,1,2,2,1,1,1
+Entertainment is fun. What is your favorite movie?,2,1,2,1,1,1,1
+Politics is about how people make rules. Why do people have to follow rules?,3,4,5,5,3,4,4
+Travel is about going to different places. Why do people like to travel?,2,3,4,4,3,3,4
+The food domain is about eating and cooking. What is your favorite food?,2,1,2,2,1,1,1
+Fashion is about clothes and style. Do you like wearing cool outfits?,2,1,2,2,1,1,1
+Art domain is about making and looking at things like paintings and sculptures. Why do people like art?,3,4,5,5,4,3,4
+Science is how people learn about things. How do scientists find out new stuff?,2,2,2,3,2,2,2
+Health is about keeping our bodies strong. What do we do to stay healthy?,2,1,2,2,1,2,1
+Finance is about money and saving. How do banks help people?,2,2,2,3,2,2,1
+Relationships are about how people connect with each other. Do you want to know how friends become close?,2,2,3,3,2,2,2
+Events are happenings that people do or watch. What is your favorite kind of event to go to?,2,1,3,2,1,2,2
+Leisure is спasos like fun and relax. Do you like playing games or watching movies?,2,1,2,2,1,1,1
+Business is about selling and buying things. What is the company's main thing they sell?,2,1,2,2,1,2,1
+Technology is about really cool gadgets and computers. How do computers work?,3,2,2,3,2,2,2
+Healthcare is about keeping people healthy. Do hospitals help sick people?,2,1,3,3,1,2,2
+Education is about learning things. How do people learn in school?,3,2,3,4,3,3,3
+Environment is about nature and earth. What kind of trees or animals are you interested in?,2,1,1,2,1,1,1
+Safety is about avoiding accidents. How do you stay safe when crossing the street?,2,1,2,2,1,3,1
+Culture is about how people do things and what they like. What are some things that different cultures do?,3,2,2,3,2,2,2
+Sports is fun! Do you like to watch or play sports?,2,1,2,2,1,1,1
+Entertainment is fun. What is your favorite thing to watch or do for fun?,2,1,2,2,1,1,1
+Politics is about how people decide rules. How do elections help choose leaders?,3,2,3,4,2,3,2
+Travel is when people go from one place to another. How do you decide where to go for your trip?,2,3,4,3,2,3,3
+Food is something people eat to stay healthy. What is your favorite food?,2,1,1,2,1,1,1
+Fashion is about how people dress. Do you like to wear colorful clothes?,2,1,2,2,1,1,1
+Art is about making beautiful or interesting things. Why do people draw or paint pictures?,2,3,4,5,3,3,4
+Science is about understanding how things work. How do scientists learn about the world?,3,2,2,3,2,3,2
+Health is about staying well and feeling good. How do people stay healthy?,2,2,3,3,2,3,2
+Finance is about managing money. How do people save their money?,3,2,2,3,2,3,2
+The relationships domain is about how people connect. Do you think friendships are important?,2,3,5,4,3,3,4
+Events are things that happen. What is an event you had recently?,2,1,1,2,1,1,1
+Leisure means fun time. What's your favorite way to relax?,2,1,2,2,1,2,1
+The business domain is about making and selling things. What do people usually buy and sell?,3,2,2,3,2,3,2
+"Technology is about tools helps us do things.  
+How do computers help us every day?",3,2,2,3,2,3,2
+Healthcare helps people stay healthy. How do doctors know what's wrong with someone?,3,2,3,4,3,3,3
+The education domain is about teaching and learning. Do you like going to school?,2,1,2,2,1,1,1
+The environment is about the world around us. Why is it important to take care of the environment?,2,2,3,3,2,2,2
+Safety is about keeping people safe. How do people stay safe?,2,3,3,3,2,3,2
+Culture is about the ways of life of a group of people. What kind of traditions do different cultures have?,3,2,3,4,3,3,2
+Sports is about playing games like soccer and basketball. Do you like playing or watching sports?,2,1,2,2,1,1,1
+Entertainment is stuff like movies and music. Do you like watching cartoons?,2,1,2,2,1,1,1
+Politics is about how people make decisions in a group. Why are voting and leaders so important?,3,2,4,5,3,3,3
+Travel is going from one place to another. How do people decide where to go?,2,3,4,5,3,3,4
+Food is something we eat. What is your favorite food?,2,1,1,1,1,1,1
+Fashion is about how people dress. Do you like colorful clothes?,2,1,2,2,1,1,1
+Art is pictures and paintings. How do people make art?,2,3,2,3,2,2,2
+Science is about learning how things work. How do scientists test their ideas?,3,2,3,3,2,3,3
+Health is about feeling good and being strong. What makes you feel happy and healthy?,2,2,3,3,2,3,2
+Finance is about money and how people use it. How do people save their money?,3,2,3,4,2,3,2
+Relationships are about how people connect with each other. Do friends or family count as relationships?,2,2,3,3,2,2,2
+"Events are things that happen, like parties or festivals. Do you like stories about fun parties?",2,1,2,2,1,2,1
+Leisure is relaxing and having fun. What do you like to do for fun?,2,1,2,2,1,2,1
+Business is about selling things. How do people decide what to sell?,3,5,4,5,4,4,5
+Technology is about making new tools. Do all computers use technology?,2,3,3,4,3,3,4
+Healthcare is about helping people stay healthy. How do doctors fix boo-boos?,2,1,1,2,1,2,1
+Education is about learning new things. What is your favorite thing to learn about?,2,1,2,2,1,1,1
+The environment is everything around us. What is the environment made of?,2,1,1,2,1,1,1
+"Safety is about keeping people from getting hurt.  
+Why do we need safety in places like homes and schools?",2,2,3,3,2,3,2
+Culture is about the way people live and their traditions. Do people have different ways of celebrating their holidays?,2,2,3,4,2,3,3
+Sports is about playing games with teams. Do people like soccer or basketball more?,2,1,3,3,1,2,2
+Entertainment is fun. Do you like cartoons or movies more?,2,1,2,2,1,1,1
+Politics is about how leaders and governments make rules. Who are the main leaders in politics?,3,2,2,3,2,2,1
+"Travel is going to new places. When you travel, do you like to visit the beach or the mountains?",2,1,2,2,1,1,1
+The food domain is about eating and cooking someday. Do you like your favorite food?,2,1,2,2,1,1,1
+Fashion is about what people wear. Do you like dressing up?,2,1,2,2,1,1,1
+Art is about making pretty or interesting pictures. How do people decide what's the best picture?,2,4,7,5,3,4,5
+Science is about learning how everything works. How do animals breathe?,3,2,2,3,2,3,2
+Health is about feeling good and not getting sick. Why is it important to eat healthy?,3,2,3,3,2,3,2
+Finance is about managing money. How do people save money?,3,2,3,4,2,3,2
+Relationships are about how people connect. Do you want to know how friends help each other?,2,2,3,3,2,2,2
+Events are things that happen. Do you like going to events like parties or concerts?,2,1,2,2,1,1,1
+Leisure is fun time for relaxing. Do you like playing games?,2,1,2,2,1,2,1
+Business is about selling things. Do people buy stuff at business places?,2,1,2,2,1,2,1
+Technology is about tools and gadgets. How do computers help us every day?,3,2,3,4,2,3,2
+Healthcare is about keeping people healthy. How do doctors help sick people feel better?,2,2,2,3,2,3,2
+Education is about learning new things. How do students learn best?,3,5,6,6,5,4,5
+The environment is everything around us. Why is keeping the earth clean important?,2,2,3,3,2,2,2
+The safety domain is about keeping people safe. Why is it important to wear a helmet?,3,2,4,3,2,3,2
+Culture is about how people live and what they believe. Do you want to know about a specific culture?,2,1,2,2,1,2,1
+Sports is about playing games like soccer and basketball. Do you like playing sports?,2,1,2,2,1,1,1
+Entertainment is fun. What is your favorite movie?,2,1,2,1,1,1,1
+Politics is about how governments make decisions. Why do people vote in elections?,3,4,5,5,4,4,5
+Travel is when people go to places away from their home. Where do most people like to travel?,2,1,2,2,1,2,2
+Food is something we eat. Do you like to eat apples?,2,1,2,2,1,1,1
+Fashion is about how people dress. What is a popular clothing item right now?,3,1,2,2,1,2,1
+Art is like drawing and making pictures. Do you like to draw?,2,1,2,2,1,1,1
+Science is about understanding how things work. Why do we do experiments in science?,3,2,3,3,2,3,3
+Keeping hydrated is important for overall health. Do you drink enough water daily?,2,1,2,2,1,2,1
+"Finance involves managing money, investments, and financial planning. How do people decide between saving and investing their money?",3,4,6,5,4,5,5
+Relationships can be really complex but also very rewarding when trust is established. Have you ever wondered what makes a relationship last through difficult times?,2,3,5,5,3,4,4
+Events often bring people together to celebrate or discuss important topics. What types of events do you find most engaging?,2,3,4,3,2,3,3
+"Leisure involves activities people enjoy in their free time, like hobbies, sports, or entertainment. What are some of your favorite ways to relax and unwind?",2,2,3,3,2,3,2
+The business domain encompasses various industries and sectors that manage resources to produce goods and services. How do businesses adapt to market changes so quickly?,3,5,6,6,5,6,6
+"Technology evolves rapidly, affecting nearly every aspect of daily life. Do you think new technological advancements will be more beneficial or problematic for society?",3,6,8,7,6,5,7
+Healthcare technology is rapidly advancing with innovations like telemedicine and wearable devices. How do you think these technologies will impact patient care in the future?,3,5,6,6,5,5,7
+Education helps shape our understanding of the world. How can technology further improve access to quality education globally?,3,7,6,6,7,6,7
+"The environment domain includes issues like pollution, climate change, and conservation efforts. How can recycling help reduce environmental impact?",3,4,5,5,4,5,4
+Safety is all about preventing accidents and injuries in different environments. How do organizations ensure their workplaces remain safe for all employees?,3,4,5,5,4,5,3
+Culture shapes our identities and influences how we perceive the world. Have you ever appreciated a cultural tradition different from your own?,3,4,5,5,4,4,3
+Sports are a great way to stay active and build teamwork skills. Do you have a favorite sport you enjoy watching or playing?,2,2,3,2,1,2,1
+"Entertainment keeps people guessing and laughing, whether it's movies, TV shows, or concerts. What kind of entertainment do you enjoy the most?",2,2,3,2,1,2,1
+Politics often shapes how communities are organized and how power is distributed. Have you ever wondered how different political systems affect daily life?,3,4,5,6,4,5,5
+Travel is a way to explore new places and experience different cultures. Have you ever been on a trip that changed your perspective?,2,2,3,3,2,2,3
+Food brings people together and inspires creativity in the kitchen. Do you prefer dining out or cooking at home?,2,3,4,3,2,3,2
+Fashion involves a constantly changing world of clothing and accessories inspired by culture and trends. Do you think sustainable fashion will become more popular in the future?,3,5,6,5,4,4,6
+Art is a way people express their thoughts and emotions visually or tangibly. Have you ever tried creating your own artwork?,2,3,2,3,2,3,2
+"Science is always pushing the boundaries of our understanding, revealing how and why our universe works. Do you think science will someday be able to explain consciousness?",3,7,8,6,7,5,8
+Health is essential for living a fulfilling life. Do you think regular exercise really improves overall wellness?,3,4,6,5,4,3,5
+"Finance involves managing money, investments, and financial planning. How do you choose the right investment strategy for long-term wealth?",3,6,7,6,5,6,5
+Relationships can be complex and deeply rewarding. How do you think communication impacts the strength of a relationship?,3,4,6,5,4,4,5
+"Events are often organized to bring people together for various purposes like celebrations, conferences, or community activities. Have you ever attended a memorable event recently?",2,2,3,3,2,2,2
+Leisure activities are a great way to relax and recharge after a busy week. What are some of your favorite ways to unwind and enjoy your free time?,2,2,3,3,2,2,2
+"Business domains include various sectors like technology, healthcare, and retail, each with unique challenges and opportunities. What specific aspect of the business domain are you interested in learning more about?",3,2,3,3,2,3,2
+Technology is always evolving and shaping how we live and work. How do new tech innovations impact our daily routines?,3,5,6,6,5,4,5
+Healthcare is all about keeping people healthy and providing medical care when they're not—it's like a big support system for everyone. How do you think advancements in technology are changing patient care?,3,5,6,5,4,5,6
+Education shapes our futures and helps us grow intellectually. How can we make access to quality education more equitable worldwide?,4,8,7,7,8,6,7
+"The environment domain includes topics like pollution, conservation, and climate change. How can we encourage more sustainable habits in our daily lives?",3,6,5,5,6,6,5
+Safety is all about preventing accidents and protecting people in different environments. Have you ever wondered how safety protocols are developed for high-risk workplaces?,3,4,3,4,3,3,3
+"Culture is like this huge tapestry of different traditions, art, and beliefs that make each community unique. Do you think that regardless of where we come from, we all share some common cultural ground?",3,4,6,5,5,3,6
+Sports are a great way to stay active and connect with others. Have you tried any new sports recently?,2,1,2,2,1,2,1
+Entertainment helps people relax and escape from daily stress. What is your favorite form of entertainment?,2,2,3,3,2,2,2
+Politics involves the process of making collective decisions that apply to members of a group or country. How do political systems influence everyday life?,4,5,6,7,5,6,5
+Travel is all about exploring new places and experiencing different cultures. What’s your favorite destination you’ve visited so far?,2,1,3,2,1,2,1
+"Food is essential for survival and well-being, and it comes in a vast array of flavors and forms. What's your favorite type of cuisine?",2,1,2,2,1,1,1
+Fashion is always changing with new designs and trends every season. Do you think sustainable fashion will become the new standard in the industry?,3,6,7,5,5,4,7
+Art is a form of creative expression that captures human imagination and emotion. What inspires you most when looking at a piece of art?,2,4,5,4,3,3,3
+Science is all about exploring the world through observation and experimentation. Do you think scientific discoveries are always beneficial to society?,3,5,7,6,4,4,6
+Good health is essential for a fulfilling life. What are some simple daily habits that can improve overall wellness?,3,4,3,4,3,4,3
+"Finance involves managing money, investments, and other financial instruments. How do people decide whether to invest in stocks or bonds?",3,4,6,5,4,5,4
+Relationships can be both challenging and rewarding. How do you effectively communicate your feelings to your partner?,3,5,6,5,4,6,4
+Events usually bring people together for celebrations or important gatherings. Have you ever attended a memorable event that left a lasting impression on you?,2,2,3,3,2,2,2
+"Leisure is all about relaxing activities like reading, hobbies, or watching movies. Do you prefer to spend your leisure time outdoors or indoors?",2,2,3,3,1,2,2
+"Business domains can encompass a wide range of industries and sectors, including retail, finance, healthcare, and technology. They often require strategic planning and market analysis. What aspects of business domains are you interested in exploring further?",3,4,4,5,4,4,3
+Technology is always advancing and transforming how we live. How do you think tech will change our daily routines in the next five years?,3,6,5,5,6,5,7
+Healthcare is essential for maintaining public well-being and managing various medical conditions. How do advancements in technology improve patient care?,3,5,6,6,5,5,6
+Education helps shape our minds and futures. Do you think online learning can replace traditional classroom education?,3,6,7,6,5,4,7
+The environment domain involves understanding how natural and human systems interact to maintain the health of the planet. How can small individual actions help combat climate change?,4,5,6,6,5,6,5
+Safety is about protecting people from harm and preventing accidents. How do organizations typically ensure safety protocols are properly followed?,3,4,5,5,4,5,4
+"Culture encompasses the beliefs, customs, art, and social behaviors of a particular group of people. How do cultural practices influence people's daily lives across different societies?",3,5,6,7,6,5,6
+Sports can really bring people together and boost team spirit. Do you think watching sports should be a required part of school curricula?,3,5,7,6,4,4,5
+"Entertainment includes movies, television, music, and gaming that keep people engaged and amused. What’s your favorite way to entertain yourself?",2,1,2,2,1,1,1
+Politics often involves negotiation and debate over how governments should be run. Do you think political systems benefit from more public participation?,3,6,7,6,5,4,6
+Travel can take you to new places and help you meet different people. Have you ever been to a destination that changed your perspective?,2,3,4,3,2,3,3
+Food is essential for life and nutrition. What's your favorite cuisine?,2,1,2,2,1,1,1
+Fashion is constantly evolving with new trends and styles emerging each season. What's your favorite fashion trend right now?,2,3,4,3,2,2,2
+"Art is a form of expression that can include painting, sculpture, and digital media. What do you think makes a piece of art truly special?",3,6,7,5,4,4,6
+Science helps us understand the universe through experiments and observations. How do scientists decide what to study first?,3,4,5,5,4,3,4
+Maintaining a balanced diet is key to good health. Do you think supplements can replace real food?,3,5,7,6,5,4,6
+"Finance involves managing money, investments, and banking services, which are essential for individuals and businesses alike. How do interest rates influence personal saving habits?",3,4,5,6,4,5,6
+Relationships can be complex but fascinating. How do people typically maintain strong bonds over time?,3,5,6,6,5,4,5
+"Events can include everything from concerts to conferences, bringing people together to share experiences. What types of events do you enjoy attending?",2,2,3,3,2,2,2
+Leisure activities often help people relax and recharge. What's your favorite way to unwind after a busy day?,2,3,4,3,2,3,2
+Business is about creating value and providing goods or services. How do businesses adapt to changing market conditions?,3,5,6,6,5,6,5
+"Technology is constantly evolving, making our lives more connected and efficient. Do you think new gadgets improve daily living or complicate it?",3,4,7,5,4,4,6
+"Healthcare is all about maintaining well-being and treating illnesses, but I wonder how many people truly have access to affordable care?",3,2,5,4,3,2,4
+Education is the foundation for personal and social growth. How can we make learning more engaging for students?,3,7,6,5,6,6,7
+Protecting the environment is essential for sustainable living. How can individuals contribute more effectively to environmental conservation?,3,6,5,5,6,6,5
+Safety is essential in both workplaces and everyday life to prevent accidents and injuries. How can companies improve safety protocols effectively?,3,6,7,6,5,6,5
+"Culture shapes the way communities express their identity through art, customs, and traditions. Have you ever wondered how many different cultural festivals there are around the world?",3,2,3,4,3,3,2
+"Sports are a great way to stay active and healthy, and they often bring people together for fun and competition. Do you prefer watching live sports events or playing sports yourself?",2,3,4,3,2,3,3
+"Entertainment keeps people engaged and joyful, whether it's movies, music, or games. What's your favorite form of entertainment?",2,2,3,2,1,2,1
+Politics often shapes the society we live in and reflects the values of its citizens. How do political campaigns influence public opinion effectively?,4,6,7,7,6,5,6
+Travel opens up new horizons and experiences beyond our everyday routines. Have you ever visited a place that changed your perspective on life?,2,3,4,3,2,3,3
+Food is essential for survival and can be a source of cultural identity. What is your favorite cuisine?,2,2,3,3,2,2,1
+Fashion is always changing with new trends every season. What is your favorite fashion style?,2,2,3,2,1,2,1
+Art is a reflection of human creativity and emotion through visual or tactile mediums. What inspires you most when creating or appreciating art?,2,4,5,4,3,3,3
+Science is the systematic study of the natural world through observation and experiments. How do scientists ensure their findings are accurate and replicable?,3,4,5,6,4,5,4
+Maintaining a balanced diet is essential for overall well-being. What are some effective ways to incorporate more fruits and vegetables into daily meals?,3,4,3,4,4,5,3
+"Finance involves managing money, including saving, investing, and borrowing. How do you think technological advancements are shaping personal finance today?",3,5,6,5,5,4,6
+Relationships are about understanding and connection between people. How can communication improve in your relationships?,3,4,5,5,4,5,4
+"The events domain covers various happenings, from concerts and conferences to festivals and local gatherings. How do organizers typically ensure the safety and engagement of participants during large events?",4,5,6,6,5,6,5
+Leisure involves activities people do during their free time to relax and enjoy themselves. What are some popular leisure activities you'd like to explore?,2,3,3,3,2,3,3
+Business is all about creating value and exchanging goods or services for profit. Have you ever wondered what makes a business truly successful in today's competitive market?,3,4,5,5,4,4,4
+"Technology is constantly evolving, shaping the way we communicate and work. How do you think advancements in AI will impact daily life in the next decade?",3,6,7,6,5,6,8
+"Healthcare is a critical sector that focuses on maintaining and improving people's health through prevention, diagnosis, treatment, and management. How do advancements in technology impact patient care in healthcare?",4,5,6,6,5,5,6
+"Education is the process of facilitating learning, or the acquisition of knowledge, skills, values, and habits. How do different teaching methods impact student engagement?",3,6,7,7,6,5,6
+The environment domain focuses on the interaction between humans and their natural surroundings. How can we better protect natural ecosystems for future generations?,3,7,6,6,7,6,7
+Safety is crucial in maintaining a secure environment for everyone. Do you think the current safety protocols are sufficient to prevent accidents?,3,4,7,5,4,5,6
+"Culture shapes our identities and traditions, influencing how we see the world. What role does cultural exchange play in modern societies?",3,6,7,7,6,5,6
+Sports are a great way to stay active and build teamwork skills. Do you prefer watching or playing sports?,2,2,3,2,1,2,2
+Entertainment keeps us connected and gives us an escape from daily life. What is your favorite form of entertainment?,2,2,3,3,2,2,2
+Politics often influences how a country is governed and how decisions are made. Have you ever wondered how different political systems affect everyday life?,3,2,4,5,3,4,4
+Travel allows you to explore new places and experience different cultures. Have you recently visited a destination that left a memorable impression on you?,3,2,4,3,2,3,2
+Food is essential for life and can be both nutritious and delicious. What's your favorite type of cuisine?,2,1,2,2,1,1,1
+Fashion is all about expressing your personality through clothing and style choices. Do you think fashion trends are mostly driven by individual tastes or popular media?,3,5,7,6,4,4,6
+Art is a form of expression that permiten people to convey complex ideas and emotions visually or through performance. Do you think art has the power to change society?,3,6,7,5,4,5,6
+Science is all about understanding the world through experiments and evidence. Have you ever wondered how scientists determine the age of ancient fossils?,3,2,3,4,3,3,3
+"Navigating the intricacies of personalized medicine remains a significant challenge, especially when tailoring treatments to diverse genetic backgrounds. How can we develop adaptable algorithms that predict individual responses to multifactorial therapies with minimal data?",6,9,8,8,9,8,9
+"Balancing risk and return in portfolio optimization remains one of the most intricate challenges in finance, especially in turbulent markets. How can we develop models that adapt dynamically to sudden market shocks while maintaining optimal risk-adjusted returns?",6,9,8,8,9,7,8
+Understanding the nuances of cultural and emotional variables in human relationships remains a profoundly complex issue. How can models of human behavior be quantitatively integrated to predict compatibility outcomes across diverse cultural contexts?,6,9,8,8,9,7,8
+"The events domain involves coordinating multiple complex variables such as timing, resources, and participant engagement, which makes scheduling and logistics optimization incredibly challenging. How can advanced predictive analytics and machine learning be integrated to create a dynamic, real-time event management system that adapts to unforeseen disruptions and optimizes attendee experience simultaneously?",6,9,8,8,9,8,9
+"Designing universally satisfying leisure activities involves balancing subjective individual preferences with culturally embedded expectations. How can we create a dynamic, adaptive leisure recommendation system that accurately personalizes suggestions while accounting for evolving social norms and diverse cultural contexts?",6,9,8,8,9,8,8
+Navigating the intricate web of global supply chains remains one of the most challenging aspects of modern business management. How can algorithms optimize real-time decision-making to reduce disruptions and costs while maintaining resilience across diverse geopolitical landscapes?,5,8,7,8,8,7,7
+"The rapid evolution of quantum computing poses unprecedented challenges for encryption standards across the technology sector. How can classical encryption rely on currently understood computational hardness assumptions when quantum algorithms threaten these foundations, and what cryptographic paradigms are most promising in safeguarding data against future quantum attacks?",6,8,8,9,8,7,8
+"Healthcare is an intricate domain where data integration presents significant challenges, especially in achieving interoperability across various electronic health record systems. How can machine learning models be developed to accurately predict patient outcomes while ensuring data privacy and compliance with regulatory standards?",6,9,8,8,9,8,7
+Addressing the diversity in learning styles presents a multifaceted challenge for educators aiming to provide equitable education. How can adaptive learning systems leverage artificial intelligence to personalize curricula while maintaining fairness and transparency in decision-making algorithms?,6,9,8,8,9,7,8
+"The interplay between climate change and biodiversity loss presents an intricate challenge in environmental science, requiring comprehensive understanding. How can we optimize global policy frameworks to simultaneously mitigate greenhouse gas emissions and preserve ecological integrity without disproportionate socioeconomic impacts?",6,9,8,8,9,7,8
+Ensuring safety in complex systems often involves unpredictable interactions that are difficult to model accurately. How can adaptive algorithms be systematically integrated into safety protocols to dynamically identify and mitigate emergent hazards in real-time?,6,9,8,8,9,8,8
+Attempting to decode the nuances of cultural identity remains an extraordinary challenge given its fluid and multi-layered nature. How can computational models effectively differentiate between superficial cultural expressions and deep-seated values across diverse societal contexts?,6,8,8,9,8,7,8
+"One of the enduring challenges in sports is developing algorithms that can accurately predict player injury risks during rigorous training schedules. How can we incorporate multi-factorial data—such as biomechanics, fatigue levels, and real-time in-game analytics—into predictive models to minimize athlete downtime?",6,9,8,8,9,7,8
+"Designing engaging entertainment content often hinges on understanding nuanced audience preferences and the unpredictability of cultural trends. How can we develop an adaptive recommendation system that optimally balances user preferences, emerging trends, and diversity of content in real time?",6,9,8,8,9,7,8
+"Designing equitable voting systems remains an enduring challenge, as the balance between perspective diversity and decision integrity is hard to achieve. How can we model and implement an adaptive governance framework that accounts for dynamic social values and minimizes systemic bias?",5,9,8,8,9,7,8
+Navigating the intricate web of global travel regulations and safety protocols remains one of the most complex challenges faced by the industry. How can we optimize real-time data integration to improve predictive analytics for preventing travel disruptions across international borders?,6,8,7,8,8,7,8
+"Addressing nutritional optimization remains one of the most multifaceted tasks, with variables spanning from biological to socio-economic factors. How can we develop a universal nutritional recommendation system that dynamically accounts for individual genetics, cultural preferences, and environmental constraints?",6,9,8,8,9,7,8
+"One of the most challenging aspects of the fashion domain is balancing fleeting trends with sustainable practices. How can advanced generative models be employed to design sustainable and trend-responsive apparel without relying on obsolete production methods?",5,8,7,7,8,7,8
+"The challenge in the art domain often revolves around quantifying creativity in a measurable way. How can we develop an algorithm that accurately differentiates between regional artistic styles based on subtle variations in brushwork and color palette differentiation, considering the influence of cultural context and historical background?",6,9,8,9,9,8,8
+"Understanding the nature of consciousness remains one of the most perplexing challenges in neuroscience, as it involves bridging the gap between neural processes and subjective experience. How can we develop a comprehensive theoretical framework that accounts for the emergent properties of consciousness while integrating findings from both neural correlates and philosophical perspectives?",6,9,8,8,9,7,9
+The complexity of accurately diagnosing multiple comorbidities simultaneously often hampers effective treatment plans. How can we develop an adaptive diagnostic framework that leverages real-time data analytics to improve multi-condition detection and management?,6,9,8,8,9,8,9
+The issue of accurately modeling market volatility remains an elusive goal in quantitative finance. How can we develop a universally robust stochastic model that adapts seamlessly to abrupt regime changes without sacrificing predictive accuracy for long-term asset behavior?,6,9,8,8,9,7,8
+"Understanding the intricacies of human relationships involves deciphering complex emotional and psychological patterns that are often subconscious, making it a profoundly challenging domain. How can machine learning models be effectively designed to predict the evolution of personal relationships over time, considering the multitude of unseen variables influencing human behavior?",6,9,8,9,9,8,9
+"The domain of event management involves the integration of multi-layered scheduling, resource allocation, and real-time adaptation to unpredictable participant behaviors. How can we develop an optimal algorithm that dynamically reallocates resources in real time to minimize costs and delays while maintaining attendee satisfaction amidst unforeseen disruptions?",6,9,8,8,9,8,8
+"Understanding the impact of leisure activities on long-term mental health remains a complex challenge, especially when considering individual preferences and cultural differences. How can we develop a comprehensive model to predict the cumulative effects of varied leisure activities on mental well-being across different demographic groups?",6,9,8,9,9,8,9
+One of the persistent challenges in the business domain is accurately predicting market fluctuations with limited data. How can machine learning models be optimized to foresee rapid economic shifts despite sparse and noisy data inputs?,5,8,7,7,8,7,8
+"The rapid evolution of quantum computing challenges our classical understanding of encryption and data security, leading to a complex interplay between technological progress and cryptographic resilience. How can we develop adaptive cryptographic protocols that remain secure in the face of potential quantum algorithm breakthroughs?",6,9,8,8,9,7,8
+The complexity of integrating multiple electronic health record systems often leads to data silos that hinder effective patient care. How can machine learning algorithms be optimized to achieve real-time interoperability among heterogeneous healthcare data infrastructures?,6,9,8,8,9,8,8
+The challenge of tailoring educational experiences to diverse learning styles continues to perplex policymakers and educators alike. How can adaptive learning algorithms be designed to effectively personalize curriculum content in real time without compromising pedagogical principles?,5,8,7,7,8,7,8
+"Addressing the complex interplay between carbon sequestration and ecosystem health remains a significant challenge in climate science. How can multifaceted approaches optimize both biodiversity conservation and carbon capture in global restoration projects, considering varying local ecological and socio-economic factors?",6,9,8,9,9,8,8
+Ensuring safety across complex systems often involves managing unpredictable variables and unforeseen interactions that challenge traditional control methods. How can we develop adaptive safety protocols that seamlessly integrate real-time data streaming with machine learning algorithms to preemptively identify and mitigate emerging hazards in dynamic environments?,6,9,8,8,9,8,9
+Understanding cultural identity in a rapidly globalizing world challenges the boundaries of traditional anthropological frameworks. How can we develop a comprehensive model that adequately accounts for the fluid and multifaceted nature of cultural practices across different societies while ensuring meaningful preservation?,6,9,8,8,9,7,8
+The problem of accurately modeling and predicting individual athletic performance under varying environmental conditions remains a deeply complex challenge. How can multi-dimensional data integration and machine learning techniques be optimized to forecast performance outcomes in unpredictable scenarios?,6,9,8,8,9,7,8
+The challenge of creating universally appealing content that also reflects diverse cultural nuances remains persistent in the entertainment industry. How can we leverage emerging technologies such as AI and virtual reality to personalize viewer experiences while preserving traditional storytelling elements?,4,8,7,7,8,7,7
+Navigating the intricacies of political consensus in polarized environments remains an ongoing challenge. How can computational models be improved to accurately predict the emergence of political ideologies in rapidly changing societal contexts?,6,8,7,8,8,7,8
+"Navigating complex itineraries and optimizing routes for diverse preferences remains a persistent challenge in the travel domain. How can machine learning algorithms be designed to dynamically adapt travel recommendations in real-time, considering unpredictable variables such as weather and local events?",5,9,7,8,8,7,9
+"The unpredictability of flavor interactions makes developing universally appealing culinary compositions remarkably challenging. How can we create a comprehensive predictive model that determines the optimal combination of ingredients to achieve desired sensory attributes across diverse cultural preferences?",6,9,8,8,9,7,8
+"The challenge of achieving personalized style recommendations that balance individuality with prevailing trends remains highly complex. Given the rapid evolution of consumer preferences and cultural influences, how can machine learning algorithms dynamically adapt to transient fashion trends while maintaining a core understanding of personal style?",6,8,7,8,8,7,8
+The challenge of capturing the essence of human emotion through abstract representations often raises ambiguities in interpretation. How can we develop a computational model sophisticated enough to inherently understand and replicate the nuanced emotional impacts of various art styles across different cultures?,6,9,8,8,9,7,8
+The difficulty of definitively accounting for all variables in complex biological systems remains a persistent challenge. How can we optimize multi-omics integration to accurately predict cellular responses under various environmental stresses?,6,9,8,9,9,8,8
+Navigating the intricacies of personalized medicine remains a significant challenge due to the vast variability in individual genetic profiles. How can machine learning models be effectively developed to predict treatment responses across diverse populations while minimizing bias?,6,9,8,8,9,7,8
+Navigating the complexities of global financial markets requires understanding innumerable interconnected factors. How can advanced machine learning algorithms be integrated to optimize real-time risk assessment without compromising market stability?,6,9,8,8,9,8,7
+"Understanding the nuanced interplay of emotional proximity and interpersonal dynamics remains a particularly intricate challenge in the relationships domain. How can we develop scalable models that accurately predict the stability and evolution of long-term relationships considering psychological, social, and contextual variables?",6,9,8,9,9,8,9
+"Understanding the temporal causality and probability distribution of concurrent events in dynamic systems remains a fundamental challenge in the events domain. How can we develop a real-time, scalable framework that effectively models nonlinear interactions between asynchronous events across distributed heterogeneous networks?",6,9,8,8,9,8,9
+"Designing optimal leisure scheduling that balances relaxation and productivity remains an elusive challenge, especially when considering individual preferences and cultural differences.How can we develop dynamic algorithms that personalize leisure activities in real-time to maximize psychological well-being across diverse populations?",4,9,7,8,9,8,9
+"Understanding the intricate dynamics of market volatility and consumer behavior remains a formidable challenge in the business domain. How can advanced predictive analytics and real-time data integration be optimized to accurately forecast long-term market trends given the rapid pace of digital transformation and global economic shifts?",6,9,8,8,9,8,8
+The rapid evolution of quantum computing continually pushes the boundaries of processing power and cryptographic security. How can we develop scalable quantum algorithms to efficiently solve NP-hard problems without exponentially increasing resource requirements?,6,9,8,8,9,8,9
+Navigating the integration of personalized medicine with large-scale genomic data presents significant complexities. How can we develop scalable algorithms that accurately interpret vast genomic datasets to inform individualized treatment plans in real time?,6,9,8,8,9,8,7
+Creating effective personalized learning pathways that adapt seamlessly to diverse student needs remains an intricate challenge in education. How can adaptive learning algorithms optimize curriculum design in real-time while ensuring equitable access for learners from varied socio-economic backgrounds?,6,9,8,8,9,7,8
+Navigating the intricacies of climate change mitigation remains a formidable challenge amid the diverse and interconnected environmental systems. How can advanced machine learning techniques be optimized to predict and effectively mitigate the impact of unforeseen ecological disturbances resulting from rapid urbanization?,6,9,8,8,9,8,9
+"Ensuring safety in complex systems often requires balancing redundancy with system efficiency, which complicates the design process significantly. How can we mathematically optimize the allocation of redundant safety features in a system to minimize both risk and cost simultaneously?",6,9,8,8,8,7,7
+Understanding the nuances of cultural identity and its influence on societal structures remains one of the most challenging aspects within the culture domain. How can we develop an integrated framework to quantitatively assess the impact of cultural shifts on geopolitical stability across diverse societies?,6,9,8,8,9,7,8
+Navigating the chaotic landscape of team strategies under unpredictable opponent behaviors remains one of the most challenging aspects of high-level sports analytics. How can machine learning models be optimized to dynamically predict and adapt to real-time strategy shifts during a match?,6,9,8,8,9,8,9
+The challenge of generating genuinely novel and meaningful content that resonates emotionally remains central to the entertainment industry. How can we leverage advancements in AI to authentically simulate human creativity without diluting the artistic essence?,4,8,7,7,8,7,8
+The complexity of political systems often lies in balancing diverse interests within a framework of conflicting ideologies. How can predictive models be effectively employed to anticipate the long-term stability of multi-party democratic regimes under varying socio-economic pressures?,6,8,7,8,8,7,8
+"Navigating the complexities of global travel logistics often feels like trying to solve a massive, multidimensional puzzle, with countless variables influencing each other unexpectedly. What innovative algorithms could be developed to optimize dynamic routing and real-time resource allocation in international travel networks while considering unpredictable disruptions?",6,9,7,8,8,7,8
+"Navigating the intricacies of flavor pairing and dietary restrictions often complicates menu development. How can molecular gastronomy techniques be optimized to create personalized culinary experiences that adapt dynamically to individual sensory profiles?",6,9,8,8,9,8,9
+"The challenge of achieving true sustainable fabrics at scale remains a formidable obstacle in the fashion industry. How can the development of bioengineered materials revolutionize the lifecycle impact of clothing production and consumption?",4,8,7,7,8,6,8
+The challenge of authentically capturing subjective human emotion in visual art remains a profound obstacle for creators and critics alike. How can machine learning models be trained to discern and replicate the nuanced expressions of emotional intent across diverse artistic styles without losing their contextual authenticity?,6,9,8,8,9,7,8
+"The complexity of understanding consciousness remains one of the most formidable challenges in neuroscience.  How can the neural correlates of subjective experience be quantitatively modeled within a comprehensive framework?",6,9,8,8,9,7,9
+"The challenge of accurately diagnosing rare conditions often delays effective treatment. How can machine learning algorithms be optimized to improve early detection of these uncommon diseases without generating excessive false positives?",6,8,7,8,7,7,8
+"Mastering financial modeling involves balancing intricate market variables, which often defies straightforward predictive accuracy. How can advanced machine learning techniques be integrated into traditional financial risk assessment models to better anticipate systemic risks under extreme market conditions?",7,9,8,8,9,8,9
+Understanding human relationships involves decoding complex emotional and social cues that are often subtle and context-dependent. How can machine learning models be optimized to accurately interpret and predict nuanced interpersonal dynamics across diverse cultural backgrounds?,6,9,8,9,9,8,8
+"The events domain often grapples with the challenge of accurately parsing and understanding complex, multimodal event descriptions that involve temporal, spatial, and causal relationships. How can we develop a real-time, scalable AI system that can not only recognize and categorize diverse event types from unstructured data but also predict future occurrences based on historical patterns so that event management and response can be optimized accordingly?",6,9,8,8,9,8,8
+The challenge in designing truly individualized leisure experiences lies in balancing diverse user preferences with scalable solutions. How can adaptive recommendation systems be optimized to account for dynamic changes in personal interests without sacrificing diversity or engagement?,5,8,7,7,8,7,8
+"Navigating the intricate landscape of business strategies often entails balancing innovation with risk management, a challenge compounded by rapidly changing global markets. What methodologies can be effectively employed to quantify and optimize competitive advantage within multi-market environments under uncertain economic conditions?",6,8,7,8,8,7,7
+Developing truly autonomous decision-making systems remains a significant challenge due to ethical considerations and unpredictable environmental variables. How can we design machine learning models that adapt seamlessly to dynamic real-world scenarios while ensuring safety and ethical alignment?,6,9,8,8,9,8,9
+"The integration of AI into healthcare systems promises to revolutionize personalized medicine, yet ensuring equitable access remains a complex challenge. How can we design AI models that balance personalized treatment recommendations with broad accessibility while safeguarding patient privacy and maintaining fairness across diverse populations?",5,9,8,8,9,7,8
+The challenge of equitable access to quality education remains a persistent barrier in many regions; how can adaptive learning technologies be optimized to address diverse learner needs at scale while ensuring data privacy and ethical use?,6,9,8,8,9,7,8
+The challenge of balancing ecological sustainability with rapid industrial growth remains daunting. How can we develop a modeling framework that accurately predicts long-term environmental impacts under both technological innovation and policy shifts?,6,9,8,8,9,7,8
+"Ensuring absolute safety in complex systems often hinges on predicting and mitigating rare, high-impact failures that are inherently hard to model comprehensively. How can fault-tolerance mechanisms be designed to anticipate and adapt to unforeseen technological vulnerabilities in autonomous safety-critical systems?",6,9,8,8,9,8,9
+"The challenge in understanding cultural dynamics lies in deciphering how localized practices and beliefs evolve within global connectivity. High complexity question: How can we develop a comprehensive computational model that predicts the diffusion of cultural traits across diverse societies while accounting for historical, linguistic, and socio-economic factors?",6,9,8,9,9,8,9
+Navigating the unpredictability of athlete performance metrics remains a profound challenge in sports analytics. How can real-time physiological data be integrated with historical performance trends to enhance predictive modeling of injury risks?,6,8,7,8,8,7,7
+"Navigating the subjective nature of audience engagement often complicates efforts to predict a project's success. What are the implications of utilizing advanced machine learning models to analyze viewer preferences across diverse demographics for emerging entertainment content?",5,8,7,8,7,7,8
+"Navigating systemic biases in electoral systems remains one of the most intricate challenges in political science. How can we develop a robust normative framework that simultaneously ensures fairness, representation, and stability across diverse political landscapes?",6,9,8,8,9,7,8
+Navigating the complexities of real-time flight data to optimize passenger experience remains a significant challenge. How can machine learning algorithms be effectively integrated with dynamic pricing models to ensure both profitability and customer satisfaction during unpredictable travel disruptions?,6,9,8,8,9,8,8
+"Cooking techniques often struggle to optimize for multiple competing factors such as time, flavor, and nutritional content simultaneously. What would you recommend for a professional to acheve exceptional results?",5,9,8,8,9,8,7
+Navigating the intersection of sustainable materials and cutting-edge design remains an ongoing challenge in fashion. How can emerging technologies like biofabrication and AI-driven customization fundamentally reshape supply chains to reduce waste while maintaining brand identity?,6,9,8,8,9,7,8
+"Art often explores the boundaries of human perception and emotion, pushing the limits of traditional mediums and techniques. How might quantum computing algorithms be employed to analyze symbolic patterns across historical art movements in order to predict future artistic trends?",6,9,7,8,9,8,9
+Understanding the nature of dark matter remains one of the most perplexing challenges in physics. How can we design experiments that can distinguish between multiple theoretical models of dark matter particles and accurately measure their properties?,6,9,8,8,8,7,9
+"One of the most challenging issues in the health domain is accurately predicting individual patient responses to personalized treatment plans. How can multi-omics data integration and machine learning techniques be optimized to improve real-time, adaptive treatment strategies for complex diseases like cancer?",6,9,8,9,9,8,9
+"Navigating the intricacies of derivative pricing requires a deep understanding of stochastic calculus and market dynamics. How can we accurately model the implications of rare, extreme market events on long-term financial derivatives?",7,9,8,8,8,7,9
+"Understanding human relationships requires deciphering the intricate web of emotional, social, and psychological factors that influence interaction. How can machine learning models accurately predict the evolution of complex interpersonal relationships over extended periods, considering the dynamic and multilayered nature of human emotions and motivations?",6,9,8,9,9,8,9
+Understanding the causality behind complex event sequences remains a formidable challenge in the domain of event detection and prediction. How can we leverage advanced probabilistic models to improve the accuracy and timeliness of multi-event scenario forecasting in highly dynamic environments?,6,8,7,8,8,7,8
+"Designing universally engaging leisure activities involves navigating complex cultural and individual preferences.  How can adaptive AI systems be developed to personalize leisure experiences in real-time without infringing on privacy or free will?",5,9,8,8,9,7,8
+The intricate dynamics of market competition often obscure the pathways to sustainable success. How can businesses effectively leverage big data analytics to predict and adapt to rapidly shifting consumer behaviors in a volatile economy?,6,8,7,8,8,7,7
+"The rapid evolution of artificial intelligence presents profound ethical and technical challenges as it increasingly integrates into daily life. How can we develop robust, interpretable AI systems that ensure fairness and transparency while maintaining high levels of autonomy and adaptability?",5,9,8,8,9,7,8
+"Addressing health disparities in multicultural populations continues to be a formidable challenge due to the intricate interplay of socioeconomic, genetic, and environmental factors. How can machine learning models be developed to accurately predict individualized treatment outcomes across such diverse patient populations while maintaining fairness and interpretability?",6,9,8,8,9,8,8
+Addressing disparities in educational access requires nuanced understanding of socioeconomic factors and regional policies. How can machine learning models be designed to effectively predict and reduce educational inequities across diverse communities?,6,9,8,8,9,8,7
+"The interconnectedness of ecosystems makes maintaining biodiversity incredibly challenging despite targeted conservation efforts. How can we develop scalable models to predict the long-term impacts of climate change on global biodiversity hotspots considering variables like habitat loss, migration patterns, and species adaptation rates?",6,9,8,9,9,8,9
+"The challenge in the safety domain often involves predicting rare but catastrophic events with limited data. How can probabilistic models be developed to better estimate the risk of low-probability, high-impact incidents in complex safety-critical systems?",6,9,8,8,9,7,8
+"Understanding the ways in which cultural norms evolve over centuries remains a complex challenge, as it involves intertwining historical, social, and psychological factors. How can we develop a comprehensive model that accurately predicts the adaptation of cultural practices in response to globalized influences?",6,9,8,9,9,7,8
+"Understanding the biomechanics behind elite athletic performance remains a complex challenge, especially when trying to optimize training without inducing injury. How can we develop predictive models that adapt to individual athlete's physiological changes over time to enhance training efficacy?",6,9,8,8,9,8,9
+"Navigating the complexities of audience engagement in entertainment remains a persistent challenge, especially with the rapid evolution of digital platforms. How can emerging AI-driven storytelling techniques be optimized to create more immersive and personalized viewer experiences without compromising artistic integrity?",5,8,7,7,8,7,8
+The challenge of achieving fair political representation in the face of diverse and often conflicting interests remains complex and unresolved. How can transformative electoral systems be designed to ensure proportional and inclusive representation while reducing polarization?,5,9,8,8,9,7,8
+"Navigating the complexities of global travel involves synchronizing multiple systems such as airlines, hospitality, and transportation, which often utilize disparate data standards. How can we develop a unified data framework that enables real-time, seamless integration across all travel service providers to enhance traveler experience and operational efficiency?",5,9,8,8,9,7,8
+"The challenge of optimizing global food distribution networks remains daunting, given the variability in demand and logistical constraints. How can emerging AI models be integrated into agricultural supply chains to predict pest outbreaks and optimize crop yields under climate change conditions?",6,9,8,8,9,8,9
+"Fashion is a constantly evolving industry where cultural, technological, and environmental factors interplay to shape trends and consumer behavior. How can the integration of sustainable practices with advanced manufacturing technologies irreversibly alter global supply chains while maintaining high fashion standards?",5,9,8,8,9,7,8
+The challenge of capturing the essence of human emotion through abstract forms remains refractory to algorithmic analysis. How can machine learning models be optimized to accurately interpret the subjective experience of visual art across diverse cultural contexts?,6,9,8,8,9,7,8
+The challenge of understanding consciousness persists as one of the most complex puzzles in neuroscience. How can we craft a comprehensive model that accounts for subjective experience while integrating data from diverse neural processes?,6,9,8,8,9,7,9

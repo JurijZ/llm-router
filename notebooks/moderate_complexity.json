@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Keeping hydrated is important for overall health. Do you drink enough water daily?"
+    },
+    {
+        "question": "Finance involves managing money, investments, and financial planning. How do people decide between saving and investing their money?"
+    },
+    {
+        "question": "Relationships can be really complex but also very rewarding when trust is established. Have you ever wondered what makes a relationship last through difficult times?"
+    },
+    {
+        "question": "Events often bring people together to celebrate or discuss important topics. What types of events do you find most engaging?"
+    },
+    {
+        "question": "Leisure involves activities people enjoy in their free time, like hobbies, sports, or entertainment. What are some of your favorite ways to relax and unwind?"
+    },
+    {
+        "question": "The business domain encompasses various industries and sectors that manage resources to produce goods and services. How do businesses adapt to market changes so quickly?"
+    },
+    {
+        "question": "Technology evolves rapidly, affecting nearly every aspect of daily life. Do you think new technological advancements will be more beneficial or problematic for society?"
+    },
+    {
+        "question": "Healthcare technology is rapidly advancing with innovations like telemedicine and wearable devices. How do you think these technologies will impact patient care in the future?"
+    },
+    {
+        "question": "Education helps shape our understanding of the world. How can technology further improve access to quality education globally?"
+    },
+    {
+        "question": "The environment domain includes issues like pollution, climate change, and conservation efforts. How can recycling help reduce environmental impact?"
+    },
+    {
+        "question": "Safety is all about preventing accidents and injuries in different environments. How do organizations ensure their workplaces remain safe for all employees?"
+    },
+    {
+        "question": "Culture shapes our identities and influences how we perceive the world. Have you ever appreciated a cultural tradition different from your own?"
+    },
+    {
+        "question": "Sports are a great way to stay active and build teamwork skills. Do you have a favorite sport you enjoy watching or playing?"
+    },
+    {
+        "question": "Entertainment keeps people guessing and laughing, whether it's movies, TV shows, or concerts. What kind of entertainment do you enjoy the most?"
+    },
+    {
+        "question": "Politics often shapes how communities are organized and how power is distributed. Have you ever wondered how different political systems affect daily life?"
+    },
+    {
+        "question": "Travel is a way to explore new places and experience different cultures. Have you ever been on a trip that changed your perspective?"
+    },
+    {
+        "question": "Food brings people together and inspires creativity in the kitchen. Do you prefer dining out or cooking at home?"
+    },
+    {
+        "question": "Fashion involves a constantly changing world of clothing and accessories inspired by culture and trends. Do you think sustainable fashion will become more popular in the future?"
+    },
+    {
+        "question": "Art is a way people express their thoughts and emotions visually or tangibly. Have you ever tried creating your own artwork?"
+    },
+    {
+        "question": "Science is always pushing the boundaries of our understanding, revealing how and why our universe works. Do you think science will someday be able to explain consciousness?"
+    },
+    {
+        "question": "Health is essential for living a fulfilling life. Do you think regular exercise really improves overall wellness?"
+    },
+    {
+        "question": "Finance involves managing money, investments, and financial planning. How do you choose the right investment strategy for long-term wealth?"
+    },
+    {
+        "question": "Relationships can be complex and deeply rewarding. How do you think communication impacts the strength of a relationship?"
+    },
+    {
+        "question": "Events are often organized to bring people together for various purposes like celebrations, conferences, or community activities. Have you ever attended a memorable event recently?"
+    },
+    {
+        "question": "Leisure activities are a great way to relax and recharge after a busy week. What are some of your favorite ways to unwind and enjoy your free time?"
+    },
+    {
+        "question": "Business domains include various sectors like technology, healthcare, and retail, each with unique challenges and opportunities.  \nWhat specific aspect of the business domain are you interested in learning more about?"
+    },
+    {
+        "question": "Technology is always evolving and shaping how we live and work. How do new tech innovations impact our daily routines?"
+    },
+    {
+        "question": "Healthcare is all about keeping people healthy and providing medical care when they're not\u2014it's like a big support system for everyone. How do you think advancements in technology are changing patient care?"
+    },
+    {
+        "question": "Education shapes our futures and helps us grow intellectually. How can we make access to quality education more equitable worldwide?"
+    },
+    {
+        "question": "The environment domain includes topics like pollution, conservation, and climate change. How can we encourage more sustainable habits in our daily lives?"
+    },
+    {
+        "question": "Safety is all about preventing accidents and protecting people in different environments. Have you ever wondered how safety protocols are developed for high-risk workplaces?"
+    },
+    {
+        "question": "Culture is like this huge tapestry of different traditions, art, and beliefs that make each community unique. Do you think that regardless of where we come from, we all share some common cultural ground?"
+    },
+    {
+        "question": "Sports are a great way to stay active and connect with others. Have you tried any new sports recently?"
+    },
+    {
+        "question": "Entertainment helps people relax and escape from daily stress. What is your favorite form of entertainment?"
+    },
+    {
+        "question": "Politics involves the process of making collective decisions that apply to members of a group or country. How do political systems influence everyday life?"
+    },
+    {
+        "question": "Travel is all about exploring new places and experiencing different cultures. What\u2019s your favorite destination you\u2019ve visited so far?"
+    },
+    {
+        "question": "Food is essential for survival and well-being, and it comes in a vast array of flavors and forms. What's your favorite type of cuisine?"
+    },
+    {
+        "question": "Fashion is always changing with new designs and trends every season. Do you think sustainable fashion will become the new standard in the industry?"
+    },
+    {
+        "question": "Art is a form of creative expression that captures human imagination and emotion. What inspires you most when looking at a piece of art?"
+    },
+    {
+        "question": "Science is all about exploring the world through observation and experimentation. Do you think scientific discoveries are always beneficial to society?"
+    },
+    {
+        "question": "Good health is essential for a fulfilling life. What are some simple daily habits that can improve overall wellness?"
+    },
+    {
+        "question": "Finance involves managing money, investments, and other financial instruments. How do people decide whether to invest in stocks or bonds?"
+    },
+    {
+        "question": "Relationships can be both challenging and rewarding. How do you effectively communicate your feelings to your partner?"
+    },
+    {
+        "question": "Events usually bring people together for celebrations or important gatherings. Have you ever attended a memorable event that left a lasting impression on you?"
+    },
+    {
+        "question": "Leisure is all about relaxing activities like reading, hobbies, or watching movies. Do you prefer to spend your leisure time outdoors or indoors?"
+    },
+    {
+        "question": "Business domains can encompass a wide range of industries and sectors, including retail, finance, healthcare, and technology. They often require strategic planning and market analysis. What aspects of business domains are you interested in exploring further?"
+    },
+    {
+        "question": "Technology is always advancing and transforming how we live. How do you think tech will change our daily routines in the next five years?"
+    },
+    {
+        "question": "Healthcare is essential for maintaining public well-being and managing various medical conditions. How do advancements in technology improve patient care?"
+    },
+    {
+        "question": "Education helps shape our minds and futures. Do you think online learning can replace traditional classroom education?"
+    },
+    {
+        "question": "The environment domain involves understanding how natural and human systems interact to maintain the health of the planet. How can small individual actions help combat climate change?"
+    },
+    {
+        "question": "Safety is about protecting people from harm and preventing accidents. How do organizations typically ensure safety protocols are properly followed?"
+    },
+    {
+        "question": "Culture encompasses the beliefs, customs, art, and social behaviors of a particular group of people. How do cultural practices influence people's daily lives across different societies?"
+    },
+    {
+        "question": "Sports can really bring people together and boost team spirit. Do you think watching sports should be a required part of school curricula?"
+    },
+    {
+        "question": "Entertainment includes movies, television, music, and gaming that keep people engaged and amused. What\u2019s your favorite way to entertain yourself?"
+    },
+    {
+        "question": "Politics often involves negotiation and debate over how governments should be run. Do you think political systems benefit from more public participation?"
+    },
+    {
+        "question": "Travel can take you to new places and help you meet different people. Have you ever been to a destination that changed your perspective?"
+    },
+    {
+        "question": "Food is essential for life and nutrition. What's your favorite cuisine?"
+    },
+    {
+        "question": "Fashion is constantly evolving with new trends and styles emerging each season. What's your favorite fashion trend right now?"
+    },
+    {
+        "question": "Art is a form of expression that can include painting, sculpture, and digital media. What do you think makes a piece of art truly special?"
+    },
+    {
+        "question": "Science helps us understand the universe through experiments and observations. How do scientists decide what to study first?"
+    },
+    {
+        "question": "Maintaining a balanced diet is key to good health. Do you think supplements can replace real food?"
+    },
+    {
+        "question": "Finance involves managing money, investments, and banking services, which are essential for individuals and businesses alike. How do interest rates influence personal saving habits?"
+    },
+    {
+        "question": "Relationships can be complex but fascinating. How do people typically maintain strong bonds over time?"
+    },
+    {
+        "question": "Events can include everything from concerts to conferences, bringing people together to share experiences. What types of events do you enjoy attending?"
+    },
+    {
+        "question": "Leisure activities often help people relax and recharge. What's your favorite way to unwind after a busy day?"
+    },
+    {
+        "question": "Business is about creating value and providing goods or services. How do businesses adapt to changing market conditions?"
+    },
+    {
+        "question": "Technology is constantly evolving, making our lives more connected and efficient. Do you think new gadgets improve daily living or complicate it?"
+    },
+    {
+        "question": "Healthcare is all about maintaining well-being and treating illnesses, but I wonder how many people truly have access to affordable care?"
+    },
+    {
+        "question": "Education is the foundation for personal and social growth. How can we make learning more engaging for students?"
+    },
+    {
+        "question": "Protecting the environment is essential for sustainable living. How can individuals contribute more effectively to environmental conservation?"
+    },
+    {
+        "question": "Safety is essential in both workplaces and everyday life to prevent accidents and injuries. How can companies improve safety protocols effectively?"
+    },
+    {
+        "question": "Culture shapes the way communities express their identity through art, customs, and traditions. Have you ever wondered how many different cultural festivals there are around the world?"
+    },
+    {
+        "question": "Sports are a great way to stay active and healthy, and they often bring people together for fun and competition. Do you prefer watching live sports events or playing sports yourself?"
+    },
+    {
+        "question": "Entertainment keeps people engaged and joyful, whether it's movies, music, or games. What's your favorite form of entertainment?"
+    },
+    {
+        "question": "Politics often shapes the society we live in and reflects the values of its citizens. How do political campaigns influence public opinion effectively?"
+    },
+    {
+        "question": "Travel opens up new horizons and experiences beyond our everyday routines. Have you ever visited a place that changed your perspective on life?"
+    },
+    {
+        "question": "Food is essential for survival and can be a source of cultural identity. What is your favorite cuisine?"
+    },
+    {
+        "question": "Fashion is always changing with new trends every season. What is your favorite fashion style?"
+    },
+    {
+        "question": "Art is a reflection of human creativity and emotion through visual or tactile mediums. What inspires you most when creating or appreciating art?"
+    },
+    {
+        "question": "Science is the systematic study of the natural world through observation and experiments. How do scientists ensure their findings are accurate and replicable?"
+    },
+    {
+        "question": "Maintaining a balanced diet is essential for overall well-being. What are some effective ways to incorporate more fruits and vegetables into daily meals?"
+    },
+    {
+        "question": "Finance involves managing money, including saving, investing, and borrowing. How do you think technological advancements are shaping personal finance today?"
+    },
+    {
+        "question": "Relationships are about understanding and connection between people. How can communication improve in your relationships?"
+    },
+    {
+        "question": "The events domain covers various happenings, from concerts and conferences to festivals and local gatherings. How do organizers typically ensure the safety and engagement of participants during large events?"
+    },
+    {
+        "question": "Leisure involves activities people do during their free time to relax and enjoy themselves. What are some popular leisure activities you'd like to explore?"
+    },
+    {
+        "question": "Business is all about creating value and exchanging goods or services for profit. Have you ever wondered what makes a business truly successful in today's competitive market?"
+    },
+    {
+        "question": "Technology is constantly evolving, shaping the way we communicate and work. How do you think advancements in AI will impact daily life in the next decade?"
+    },
+    {
+        "question": "Healthcare is a critical sector that focuses on maintaining and improving people's health through prevention, diagnosis, treatment, and management. How do advancements in technology impact patient care in healthcare?"
+    },
+    {
+        "question": "Education is the process of facilitating learning, or the acquisition of knowledge, skills, values, and habits. How do different teaching methods impact student engagement?"
+    },
+    {
+        "question": "The environment domain focuses on the interaction between humans and their natural surroundings. How can we better protect natural ecosystems for future generations?"
+    },
+    {
+        "question": "Safety is crucial in maintaining a secure environment for everyone. Do you think the current safety protocols are sufficient to prevent accidents?"
+    },
+    {
+        "question": "Culture shapes our identities and traditions, influencing how we see the world. What role does cultural exchange play in modern societies?"
+    },
+    {
+        "question": "Sports are a great way to stay active and build teamwork skills. Do you prefer watching or playing sports?"
+    },
+    {
+        "question": "Entertainment keeps us connected and gives us an escape from daily life. What is your favorite form of entertainment?"
+    },
+    {
+        "question": "Politics often influences how a country is governed and how decisions are made. Have you ever wondered how different political systems affect everyday life?"
+    },
+    {
+        "question": "Travel allows you to explore new places and experience different cultures. Have you recently visited a destination that left a memorable impression on you?"
+    },
+    {
+        "question": "Food is essential for life and can be both nutritious and delicious. What's your favorite type of cuisine?"
+    },
+    {
+        "question": "Fashion is all about expressing your personality through clothing and style choices. Do you think fashion trends are mostly driven by individual tastes or popular media?"
+    },
+    {
+        "question": "Art is a form of expression that permiten people to convey complex ideas and emotions visually or through performance. Do you think art has the power to change society?"
+    },
+    {
+        "question": "Science is all about understanding the world through experiments and evidence. Have you ever wondered how scientists determine the age of ancient fossils?"
+    }
+]
