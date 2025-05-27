@@ -8,8 +8,8 @@ As large language models (LLMs) continue to improve, questions that are currentl
 
 # Repo structure
 ## notebooks folder
-1_dataset_generation.ipynb - to generate questions of various complexity
-2_research.ipynb - blooms taxonomy with prompt engineering and training dataset generation
-3_classifier.ipynb - custom BERT based multi label classifier
-
+1_dataset_generation.ipynb - to generate questions of various complexity  
+2_research.ipynb - blooms taxonomy with prompt engineering and training dataset generation  
+3_classifier.ipynb - custom BERT based multi label classifier  
+  
 ## api
